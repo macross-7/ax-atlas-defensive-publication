@@ -7,6 +7,7 @@
 | File | Purpose |
 | --- | --- |
 | [`PUBLIC_DISCLOSURE_EN.md`](./PUBLIC_DISCLOSURE_EN.md) | The full defensive publication, in English. Read this first. |
+| [`IMPLEMENTATION_STATUS.md`](./IMPLEMENTATION_STATUS.md) | Supplementary record (added 2026-05-10): 1:1 mapping between claims 16 / 17 flows and the actual production code, deployment version, and test results. |
 | [`LICENSE`](./LICENSE) | Creative Commons CC0 1.0 Universal — the author dedicates this work to the public domain to maximize prior-art effect. |
 | `README.md` | This file. |
 
